@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Tilt Neon';
+    /* overflow-x: hidden; */
+    
+}
+.table {
+    position: relative;
+    border:  solid solid whitesmoke;
+    top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /* height: 3800px; */
+   
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table, td, th {
+    border: 1px solid gray;
+    padding: 20px;
+  }
+  .btn1 {
+    background-color: #4B0082;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius:  solid;
+    cursor: pointer;
+    font-size: 16px;
+  position: relative;
+   right:75px;
+   bottom: 10px;
+   
+}
+.number-input{
+   position: relative;
+   bottom: 10px;
+   right: 1px;
+}
+.btns {
+position: relative;
+top: 300px;
+display: flex;
+justify-content: space-between;
+height: 600px;
+}
+.tops {
+margin-left: 100px;
+}
+.btn2 {
+    background-color: #4B0082;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius:  solid;
+    cursor: pointer;
+    font-size: 12px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.btn3 {
+    background-color: white;
+    color: #4B0082;
+    padding: 10px 50px ;
+    border: 1px solid #4B0082;
+    border-radius: 2px ;
+    cursor: pointer;
+    font-size: 12px;
+}
+.tops h2 {
+    margin-bottom: 15px;
+}
+.tops h5 {
+    margin-bottom: 20px;
+    opacity: .8;
+}
+.tops input {
+    width: 300px;
+    height:30px;
+    margin-right: 20px;
+}
+.btn4 {
+    background-color: #4B0082;
+    color: white;
+    padding: 8px 30px;
+    border: none;
+    border-radius:  solid;
+    cursor: pointer;
+    font-size: 12px;
+}
+.bottms {
+    margin-right: 100px;
+}
+.bottms h3 {
+    margin-bottom: 3px;
+    text-align: right;
+}
+.bottms div {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bottms h4 {
+    margin-top: 30px;
+    margin-right: 150px;
+}
+.bottms h5 {
+    margin-top: 30px;
+}
+.bottms button {
+    background-color: #4B0082;
+    color: white;
+    padding: 10px 50px;
+    border: none;
+    border-radius:  solid;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.container7 {
+    position: relative;
+    top: 150px;
+}
+.container8{
+    position: relative;
+    top: 250px;
+}

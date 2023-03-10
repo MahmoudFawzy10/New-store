@@ -1,0 +1,90 @@
+*{
+     padding: 0;
+     margin: 0;
+        box-sizing: border-box;
+        font-family: 'Tilt Neon';
+        
+        
+     
+}
+.sec1 {
+    position: relative;
+    top: 80px;
+    background-color:beige;
+    height: 80px;
+}
+.sec1 a {
+    text-decoration:  none;
+    margin-left: 100px;
+    
+    align-items: center;
+   
+    
+}
+.sec1 p{
+    position: absolute;
+    top: 20px;
+}
+.sec2 {
+    display: flex;
+    position: relative;
+    top: 150px;
+    margin-left: 100px;
+    height: 700px;
+}
+.sec2 div img {
+    width: 600px;
+    filter: brightness(50%);
+}
+.sec2 div h1 {
+    margin-left: 150px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.sec2 div p {
+    width: 400px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+    opacity: .8;
+    
+}
+.the-team {
+    margin-top: 120px;
+    text-align: center;
+}
+.sec3 {
+display: flex;
+margin-top: 100px;
+height: 500PX;
+}
+.sec3 div img {
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+    filter: brightness(50%);
+}
+.sec3 div h3 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 35px;
+    /* position: absolute; */
+}
+.sec3 div h6 {
+    margin-bottom: 30px;
+    text-align: center;
+    opacity: .5;
+    margin-left: 35px;
+
+}
+.sec3 div p {
+    /* width: 300px; */
+    text-align: center;
+    margin-left: 50px;
+    opacity: .7;
+
+}
+.container3 {
+    height: 200px;
+}
